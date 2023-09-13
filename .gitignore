@@ -1,0 +1,34 @@
+# Carpeta node_modules generada por npm/yarn
+node_modules/
+
+# Archivo de bloqueo de dependencias
+package-lock.json
+yarn.lock
+
+# Carpeta de caché de npm
+.npm/
+
+# Carpetas y archivos específicos de IDE
+.vscode/
+.idea/
+
+# Carpetas y archivos específicos de sistemas operativos
+.DS_Store
+Thumbs.db
+
+# Carpetas y archivos específicos de construcción/distribución
+dist/
+out/
+build/
+coverage/
+
+# Archivo de registro de errores
+error.log
+
+# Archivos de entorno local (variables de entorno)
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Cualquier otro archivo o carpeta específica de tu proyecto que quieras excluir
